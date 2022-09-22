@@ -1,0 +1,43 @@
+a {
+    color: black;
+}
+
+p a {
+    color: red;
+}
+
+#rockets p {
+    color: pink;
+}
+
+
+
+.top-link {
+    color: brown;
+}
+
+#starlink {
+    color: green;
+}
+
+
+.title, 
+.subtitle {
+    color: purple;
+}
+
+.list * {
+    color: orange;
+}
+
+.text {
+    color: black;
+}
+
+#falcone-nine .text{
+    color: black;
+}
+
+.paragraph .text {
+    color: red;
+}
